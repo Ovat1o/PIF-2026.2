@@ -1,5 +1,6 @@
 Questão 11.
 
+```text
 CONSTANTE  |  CLASSIFICAÇÃO                     | TIPO BASE
 \r         |  Sequência de escape               | char
 2130       |  Constante inteira decimal         | int
@@ -16,3 +17,4 @@ CONSTANTE  |  CLASSIFICAÇÃO                     | TIPO BASE
 '\0'       |  Constante de caractere            | char
 "F"        |  Constante string                  | char
 -4567.89   |  Constante de ponto flutuante      | double
+```
