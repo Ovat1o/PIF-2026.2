@@ -1,4 +1,4 @@
-Questão 09.
+Questão 10.
     
 Alternativa correta:
     b) Verdadeiro (a linguagem C diferencia rigorosamente letras maiúsculas de minúsculas).
