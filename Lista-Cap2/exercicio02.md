@@ -15,7 +15,7 @@ Saída: putchar() e fputc()
 
 c) Escreva um pequeno trecho de código padrão C que leia um caractere do console de maneira
 robusta, ignorando eventuais quebras de linha ('\n') residuais no buffer do teclado.
-```text
+```c
 #include <stdio.h>
 
 int main(void) {
