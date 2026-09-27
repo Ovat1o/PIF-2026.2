@@ -1,7 +1,5 @@
 Questão 4.
 
-i = 2, j = 3, k = 0     x = 2.5, y = 5.0.
-
 a) i < j + 2 :
 Resultado: 1
 
