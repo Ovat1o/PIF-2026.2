@@ -7,7 +7,7 @@
 Repositório para a disciplina de **Programação Imperativa e Funcional**.
 
 ## 👨‍🏫 Aluno
-**Otávio Sousa Leão de Barros**
+**Otávio Leão**
 
 ## 📖 Ementa
 Este repositório explora a introdução a dois dos principais paradigmas de linguagem de programação: **imperativa** e **funcional**.
